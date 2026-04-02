@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devam1912/leetcode/tree/master/0001-two-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/devam1912/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/devam1912/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/devam1912/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/devam1912/leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
 ## Two Pointers
 |  |
@@ -40,5 +42,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/devam1912/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/devam1912/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/devam1912/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
