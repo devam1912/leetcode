@@ -122,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/devam1912/leetcode/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [3783-mirror-distance-of-an-integer](https://github.com/devam1912/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 <!---LeetCode Topics End-->
