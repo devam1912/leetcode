@@ -125,5 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/devam1912/leetcode/tree/master/0002-add-two-numbers) |
 | [3783-mirror-distance-of-an-integer](https://github.com/devam1912/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/devam1912/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/devam1912/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
