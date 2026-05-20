@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/devam1912/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/devam1912/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2109-adding-spaces-to-a-string](https://github.com/devam1912/leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/devam1912/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2540-minimum-common-value](https://github.com/devam1912/leetcode/tree/master/2540-minimum-common-value) |
 | [2592-maximize-greatness-of-an-array](https://github.com/devam1912/leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/devam1912/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/devam1912/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/devam1912/leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/devam1912/leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/devam1912/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/devam1912/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/devam1912/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Sorting
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/devam1912/leetcode/tree/master/0070-climbing-stairs) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/devam1912/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
