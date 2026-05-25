@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/devam1912/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/devam1912/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/devam1912/leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devam1912/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devam1912/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/devam1912/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/devam1912/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/devam1912/leetcode/tree/master/0049-group-anagrams) |
 | [0763-partition-labels](https://github.com/devam1912/leetcode/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/devam1912/leetcode/tree/master/0791-custom-sort-string) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devam1912/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/devam1912/leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/devam1912/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/devam1912/leetcode/tree/master/2784-check-if-array-is-good) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/devam1912/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/devam1912/leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devam1912/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/devam1912/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devam1912/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/devam1912/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/devam1912/leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devam1912/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/devam1912/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2187-minimum-time-to-complete-trips](https://github.com/devam1912/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2540-minimum-common-value](https://github.com/devam1912/leetcode/tree/master/2540-minimum-common-value) |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/devam1912/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devam1912/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/devam1912/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Tree
 |  |
