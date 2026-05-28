@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/devam1912/leetcode/tree/master/0846-hand-of-straights) |
 | [0962-maximum-width-ramp](https://github.com/devam1912/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/devam1912/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/devam1912/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/devam1912/leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devam1912/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devam1912/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/devam1912/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/devam1912/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1019-next-greater-node-in-linked-list](https://github.com/devam1912/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/devam1912/leetcode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/devam1912/leetcode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/devam1912/leetcode/tree/master/0206-reverse-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/devam1912/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -213,4 +216,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/devam1912/leetcode/tree/master/0962-maximum-width-ramp) |
+| [1019-next-greater-node-in-linked-list](https://github.com/devam1912/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
