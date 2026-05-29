@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/devam1912/leetcode/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/devam1912/leetcode/tree/master/0791-custom-sort-string) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/devam1912/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1208-get-equal-substrings-within-budget](https://github.com/devam1912/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/devam1912/leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1754-largest-merge-of-two-strings](https://github.com/devam1912/leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [2109-adding-spaces-to-a-string](https://github.com/devam1912/leetcode/tree/master/2109-adding-spaces-to-a-string) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/devam1912/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/devam1912/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/devam1912/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/devam1912/leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devam1912/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/devam1912/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/devam1912/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devam1912/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/devam1912/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/devam1912/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/devam1912/leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devam1912/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/devam1912/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/devam1912/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/devam1912/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devam1912/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/devam1912/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Tree
