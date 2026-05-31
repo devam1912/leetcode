@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/devam1912/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/devam1912/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2109-adding-spaces-to-a-string](https://github.com/devam1912/leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2126-destroying-asteroids](https://github.com/devam1912/leetcode/tree/master/2126-destroying-asteroids) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/devam1912/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2187-minimum-time-to-complete-trips](https://github.com/devam1912/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2540-minimum-common-value](https://github.com/devam1912/leetcode/tree/master/2540-minimum-common-value) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/devam1912/leetcode/tree/master/0846-hand-of-straights) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/devam1912/leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/devam1912/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2126-destroying-asteroids](https://github.com/devam1912/leetcode/tree/master/2126-destroying-asteroids) |
 | [2592-maximize-greatness-of-an-array](https://github.com/devam1912/leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2784-check-if-array-is-good](https://github.com/devam1912/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/devam1912/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/devam1912/leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/devam1912/leetcode/tree/master/0846-hand-of-straights) |
 | [1754-largest-merge-of-two-strings](https://github.com/devam1912/leetcode/tree/master/1754-largest-merge-of-two-strings) |
+| [2126-destroying-asteroids](https://github.com/devam1912/leetcode/tree/master/2126-destroying-asteroids) |
 | [2592-maximize-greatness-of-an-array](https://github.com/devam1912/leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 ## Binary Search
 |  |
