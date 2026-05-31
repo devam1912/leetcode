@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/devam1912/leetcode/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/devam1912/leetcode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/devam1912/leetcode/tree/master/0086-partition-list) |
 | [0165-compare-version-numbers](https://github.com/devam1912/leetcode/tree/master/0165-compare-version-numbers) |
 | [0763-partition-labels](https://github.com/devam1912/leetcode/tree/master/0763-partition-labels) |
 | [0962-maximum-width-ramp](https://github.com/devam1912/leetcode/tree/master/0962-maximum-width-ramp) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/devam1912/leetcode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/devam1912/leetcode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/devam1912/leetcode/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/devam1912/leetcode/tree/master/0206-reverse-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/devam1912/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
