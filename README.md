@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/devam1912/leetcode/tree/master/0070-climbing-stairs) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/devam1912/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/devam1912/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/devam1912/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/devam1912/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Linked List
 |  |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/devam1912/leetcode/tree/master/0070-climbing-stairs) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/devam1912/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/devam1912/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/devam1912/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devam1912/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/devam1912/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
