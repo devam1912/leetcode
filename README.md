@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/devam1912/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/devam1912/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/devam1912/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/devam1912/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2109-adding-spaces-to-a-string](https://github.com/devam1912/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2126-destroying-asteroids](https://github.com/devam1912/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/devam1912/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devam1912/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/devam1912/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/devam1912/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/devam1912/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2187-minimum-time-to-complete-trips](https://github.com/devam1912/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2540-minimum-common-value](https://github.com/devam1912/leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devam1912/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devam1912/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/devam1912/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/devam1912/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/devam1912/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2574-left-and-right-sum-differences](https://github.com/devam1912/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/devam1912/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Tree
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/devam1912/leetcode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/devam1912/leetcode/tree/master/0657-robot-return-to-origin) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/devam1912/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2109-adding-spaces-to-a-string](https://github.com/devam1912/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## Bit Manipulation
 |  |
