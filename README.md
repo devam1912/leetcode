@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/devam1912/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/devam1912/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devam1912/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/devam1912/leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/devam1912/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/devam1912/leetcode/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/devam1912/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/devam1912/leetcode/tree/master/0045-jump-game-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devam1912/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/devam1912/leetcode/tree/master/0605-can-place-flowers) |
 | [0763-partition-labels](https://github.com/devam1912/leetcode/tree/master/0763-partition-labels) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/devam1912/leetcode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/devam1912/leetcode/tree/master/0070-climbing-stairs) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/devam1912/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/devam1912/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
