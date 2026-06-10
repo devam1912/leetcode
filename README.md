@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/devam1912/leetcode/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/devam1912/leetcode/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/devam1912/leetcode/tree/master/0846-hand-of-straights) |
+| [1189-maximum-number-of-balloons](https://github.com/devam1912/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1338-reduce-array-size-to-the-half](https://github.com/devam1912/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/devam1912/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devam1912/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/devam1912/leetcode/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/devam1912/leetcode/tree/master/0791-custom-sort-string) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/devam1912/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1189-maximum-number-of-balloons](https://github.com/devam1912/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1208-get-equal-substrings-within-budget](https://github.com/devam1912/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/devam1912/leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/devam1912/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1338-reduce-array-size-to-the-half](https://github.com/devam1912/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/devam1912/leetcode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
