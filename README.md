@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devam1912/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/devam1912/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/devam1912/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/devam1912/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/devam1912/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2109-adding-spaces-to-a-string](https://github.com/devam1912/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/devam1912/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3612-process-string-with-special-operations-i](https://github.com/devam1912/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
