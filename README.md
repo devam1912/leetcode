@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/devam1912/leetcode/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devam1912/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0491-non-decreasing-subsequences](https://github.com/devam1912/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0540-single-element-in-a-sorted-array](https://github.com/devam1912/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/devam1912/leetcode/tree/master/0605-can-place-flowers) |
 | [0846-hand-of-straights](https://github.com/devam1912/leetcode/tree/master/0846-hand-of-straights) |
 | [0962-maximum-width-ramp](https://github.com/devam1912/leetcode/tree/master/0962-maximum-width-ramp) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/devam1912/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devam1912/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0436-find-right-interval](https://github.com/devam1912/leetcode/tree/master/0436-find-right-interval) |
+| [0540-single-element-in-a-sorted-array](https://github.com/devam1912/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/devam1912/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/devam1912/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/devam1912/leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
