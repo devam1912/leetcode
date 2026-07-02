@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devam1912/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/devam1912/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/devam1912/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2211-count-collisions-on-a-road](https://github.com/devam1912/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/devam1912/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/devam1912/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/devam1912/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/devam1912/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2109-adding-spaces-to-a-string](https://github.com/devam1912/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/devam1912/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2211-count-collisions-on-a-road](https://github.com/devam1912/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3612-process-string-with-special-operations-i](https://github.com/devam1912/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Bit Manipulation
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/devam1912/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/devam1912/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devam1912/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2211-count-collisions-on-a-road](https://github.com/devam1912/leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Queue
 |  |
 | ------- |
