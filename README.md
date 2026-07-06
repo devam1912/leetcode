@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devam1912/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devam1912/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/devam1912/leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devam1912/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/devam1912/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devam1912/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0318-maximum-product-of-word-lengths](https://github.com/devam1912/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/devam1912/leetcode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/devam1912/leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devam1912/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/devam1912/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/devam1912/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/devam1912/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
