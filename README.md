@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/devam1912/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/devam1912/leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/devam1912/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devam1912/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/devam1912/leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/devam1912/leetcode/tree/master/0045-jump-game-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devam1912/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/devam1912/leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/devam1912/leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/devam1912/leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devam1912/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/devam1912/leetcode/tree/master/0086-partition-list) |
