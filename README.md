@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/devam1912/leetcode/tree/master/0274-h-index) |
 | [0318-maximum-product-of-word-lengths](https://github.com/devam1912/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devam1912/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/devam1912/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0436-find-right-interval](https://github.com/devam1912/leetcode/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devam1912/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0491-non-decreasing-subsequences](https://github.com/devam1912/leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/devam1912/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/devam1912/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/devam1912/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/devam1912/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/devam1912/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/devam1912/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devam1912/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/devam1912/leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/devam1912/leetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/devam1912/leetcode/tree/master/0070-climbing-stairs) |
+| [0380-insert-delete-getrandom-o1](https://github.com/devam1912/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/devam1912/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/devam1912/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/devam1912/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
@@ -464,4 +467,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/devam1912/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/devam1912/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/devam1912/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
