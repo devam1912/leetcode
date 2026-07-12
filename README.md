@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/devam1912/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/devam1912/leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1314-matrix-block-sum](https://github.com/devam1912/leetcode/tree/master/1314-matrix-block-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/devam1912/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/devam1912/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1441-build-an-array-with-stack-operations](https://github.com/devam1912/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/devam1912/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/devam1912/leetcode/tree/master/0846-hand-of-straights) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/devam1912/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/devam1912/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/devam1912/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/devam1912/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/devam1912/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devam1912/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/devam1912/leetcode/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/devam1912/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/devam1912/leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
+| [1331-rank-transform-of-an-array](https://github.com/devam1912/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/devam1912/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/devam1912/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/devam1912/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
