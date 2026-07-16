@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devam1912/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/devam1912/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devam1912/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/devam1912/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/devam1912/leetcode/tree/master/0049-group-anagrams) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devam1912/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/devam1912/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devam1912/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/devam1912/leetcode/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/devam1912/leetcode/tree/master/0165-compare-version-numbers) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devam1912/leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/devam1912/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/devam1912/leetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/devam1912/leetcode/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/devam1912/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
