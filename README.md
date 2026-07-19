@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/devam1912/leetcode/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/devam1912/leetcode/tree/master/0791-custom-sort-string) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/devam1912/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/devam1912/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/devam1912/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/devam1912/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1208-get-equal-substrings-within-budget](https://github.com/devam1912/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/devam1912/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/devam1912/leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/devam1912/leetcode/tree/master/0846-hand-of-straights) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/devam1912/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1338-reduce-array-size-to-the-half](https://github.com/devam1912/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/devam1912/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1754-largest-merge-of-two-strings](https://github.com/devam1912/leetcode/tree/master/1754-largest-merge-of-two-strings) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/devam1912/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/devam1912/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1019-next-greater-node-in-linked-list](https://github.com/devam1912/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/devam1912/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/devam1912/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devam1912/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/devam1912/leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/devam1912/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0962-maximum-width-ramp](https://github.com/devam1912/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/devam1912/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/devam1912/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Backtracking
 |  |
 | ------- |
