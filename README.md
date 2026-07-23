@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devam1912/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/devam1912/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/devam1912/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/devam1912/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devam1912/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devam1912/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/devam1912/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/devam1912/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/devam1912/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/devam1912/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/devam1912/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Stack
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devam1912/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/devam1912/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/devam1912/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/devam1912/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/devam1912/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/devam1912/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/devam1912/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
