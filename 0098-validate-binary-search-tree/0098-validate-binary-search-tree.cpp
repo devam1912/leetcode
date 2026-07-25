@@ -6,27 +6,44 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right)
+ *         : val(x), left(left), right(right) {}
  * };
  */
+
 class Solution {
 public:
+    TreeNode* prev = nullptr;
+    bool ans = true;
 
-    bool check(TreeNode* root, long long low, long long high)
+    void inorder(TreeNode* root)
     {
-        if(root == NULL)
-            return true;
+        if (root == nullptr)
+            return;
 
-        if(root->val <= low || root->val >= high)
-            return false;
+        // Traverse left subtree
+        inorder(root->left);
 
-        return check(root->left, low, root->val) &&
-               check(root->right, root->val, high);
+        // Process current node
+        if (prev == nullptr)
+        {
+            prev = root;
+        }
+        else
+        {
+            if (root->val <= prev->val)
+                ans = false;
+
+            prev = root;
+        }
+
+        // Traverse right subtree
+        inorder(root->right);
     }
 
-    bool isValidBST(TreeNode* root) {
-
-        return check(root, LLONG_MIN, LLONG_MAX);
-
+    bool isValidBST(TreeNode* root)
+    {
+        inorder(root);
+        return ans;
     }
 };
