@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/devam1912/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devam1912/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/devam1912/leetcode/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/devam1912/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/devam1912/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/devam1912/leetcode/tree/master/0846-hand-of-straights) |
 | [0962-maximum-width-ramp](https://github.com/devam1912/leetcode/tree/master/0962-maximum-width-ramp) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/devam1912/leetcode/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devam1912/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devam1912/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/devam1912/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0791-custom-sort-string](https://github.com/devam1912/leetcode/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/devam1912/leetcode/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/devam1912/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/devam1912/leetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/devam1912/leetcode/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/devam1912/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0628-maximum-product-of-three-numbers](https://github.com/devam1912/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/devam1912/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/devam1912/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devam1912/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
