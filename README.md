@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/devam1912/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/devam1912/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/devam1912/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devam1912/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/devam1912/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/devam1912/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/devam1912/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/devam1912/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/devam1912/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2592-maximize-greatness-of-an-array](https://github.com/devam1912/leetcode/tree/master/2592-maximize-greatness-of-an-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devam1912/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devam1912/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devam1912/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/devam1912/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/devam1912/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devam1912/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/devam1912/leetcode/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devam1912/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/devam1912/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devam1912/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/devam1912/leetcode/tree/master/3536-maximum-product-of-two-digits) |
