@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/devam1912/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/devam1912/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/devam1912/leetcode/tree/master/0846-hand-of-straights) |
+| [0877-stone-game](https://github.com/devam1912/leetcode/tree/master/0877-stone-game) |
 | [0962-maximum-width-ramp](https://github.com/devam1912/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/devam1912/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/devam1912/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/devam1912/leetcode/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/devam1912/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devam1912/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/devam1912/leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/devam1912/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/devam1912/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devam1912/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devam1912/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devam1912/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/devam1912/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0877-stone-game](https://github.com/devam1912/leetcode/tree/master/0877-stone-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/devam1912/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/devam1912/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/devam1912/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -562,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devam1912/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/devam1912/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devam1912/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/devam1912/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
