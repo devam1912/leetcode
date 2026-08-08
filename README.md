@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/devam1912/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/devam1912/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devam1912/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/devam1912/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/devam1912/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2540-minimum-common-value](https://github.com/devam1912/leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/devam1912/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1234-replace-the-substring-for-balanced-string](https://github.com/devam1912/leetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/devam1912/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1754-largest-merge-of-two-strings](https://github.com/devam1912/leetcode/tree/master/1754-largest-merge-of-two-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/devam1912/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1898-maximum-number-of-removable-characters](https://github.com/devam1912/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/devam1912/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devam1912/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/devam1912/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/devam1912/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/devam1912/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/devam1912/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/devam1912/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting Sort
