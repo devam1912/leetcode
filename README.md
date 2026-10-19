@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/devam1912/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/devam1912/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3975-filter-occupied-intervals](https://github.com/devam1912/leetcode/tree/master/3975-filter-occupied-intervals) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/devam1912/leetcode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Hash Table
 |  |
 | ------- |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/devam1912/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/devam1912/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devam1912/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/devam1912/leetcode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/devam1912/leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/devam1912/leetcode/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/devam1912/leetcode/tree/master/1314-matrix-block-sum) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/devam1912/leetcode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Math
 |  |
 | ------- |
