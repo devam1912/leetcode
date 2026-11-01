@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/devam1912/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0436-find-right-interval](https://github.com/devam1912/leetcode/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devam1912/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/devam1912/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/devam1912/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/devam1912/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devam1912/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/devam1912/leetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/devam1912/leetcode/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/devam1912/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/devam1912/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/devam1912/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devam1912/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/devam1912/leetcode/tree/master/0836-rectangle-overlap) |
