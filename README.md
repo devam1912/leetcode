@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/devam1912/leetcode/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devam1912/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/devam1912/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devam1912/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/devam1912/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/devam1912/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devam1912/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devam1912/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/devam1912/leetcode/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devam1912/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devam1912/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devam1912/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devam1912/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0791-custom-sort-string](https://github.com/devam1912/leetcode/tree/master/0791-custom-sort-string) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/devam1912/leetcode/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/devam1912/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/devam1912/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/devam1912/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/devam1912/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devam1912/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/devam1912/leetcode/tree/master/0836-rectangle-overlap) |
