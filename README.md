@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/devam1912/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/devam1912/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/devam1912/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1882-process-tasks-using-servers](https://github.com/devam1912/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/devam1912/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1898-maximum-number-of-removable-characters](https://github.com/devam1912/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devam1912/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/devam1912/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/devam1912/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devam1912/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/devam1912/leetcode/tree/master/1882-process-tasks-using-servers) |
 ## Counting
 |  |
 | ------- |
